@@ -102,8 +102,8 @@ Contact
 
 For any queries or suggestions, please reach out:
 
-    Name: Shashwat Dhondyal
-    Email: shashwatdhondyal812@gmail.com
-    GitHub: BinaryBrainss
+    Name: Tejaswini Rath
+    Email: tejasmita108@gmail.com
+    GitHub: TejaswiniRath
 
 Happy Coding! 🚀
