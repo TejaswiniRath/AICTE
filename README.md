@@ -76,22 +76,6 @@ Future Scope
     Perform customer segmentation to enhance personalized marketing.
     Extend analysis to include real-time streaming data.
 
-Repository Structure
-
-Internships/
-│
-├── data/
-│   └── shopping_data.csv        # Dataset used for analysis
-│
-├── notebooks/
-│   └── eda_shopping_trends.ipynb  # Jupyter Notebook containing the analysis
-│
-├── plots/
-│   └── static_plots/            # Static visualizations (Matplotlib, Seaborn)
-│   └── interactive_plots/       # Interactive visualizations (Plotly Express)
-│
-└── README.md                    # Project Documentation
-
 Contribution
 
 Contributions are welcome! If you have ideas for improvements or additional features, feel free to create an issue or submit a pull request.
